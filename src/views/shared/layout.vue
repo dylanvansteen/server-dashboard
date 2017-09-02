@@ -19,7 +19,7 @@
         </v-toolbar>
         <main>
             <v-container fluid>
-                <transition name="fade" appear="true" mode="out-in">
+                <transition name="fade" :appear="true" mode="out-in">
                     <router-view></router-view>
                 </transition>
             </v-container>
