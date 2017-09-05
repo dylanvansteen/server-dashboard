@@ -1,6 +1,8 @@
 # server-dashboard
-https://circleci.com/gh/dylanvansteen/server-dashboard.svg?style=svg&circle-token=3f44c38ebc93d1bdfb1ac8ed4016f2df210f1e09
 
+<p align="center">
+  <img src="https://circleci.com/gh/dylanvansteen/server-dashboard.svg?style=svg&circle-token=3f44c38ebc93d1bdfb1ac8ed4016f2df210f1e09" width="350"/>
+  </p>
 > A Vue.js project
 
 ## Build Setup
