@@ -1,4 +1,5 @@
 # server-dashboard
+https://circleci.com/gh/dylanvansteen/server-dashboard.svg?style=svg&circle-token=3f44c38ebc93d1bdfb1ac8ed4016f2df210f1e09
 
 > A Vue.js project
 
