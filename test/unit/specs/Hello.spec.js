@@ -1,11 +1,12 @@
 import Vue from 'vue'
-import Hello from '@/components/Hello'
+import App from '@/App'
 
 describe('Hello.vue', () => {
   it('should render correct contents', () => {
-    const Constructor = Vue.extend(Hello)
-    const vm = new Constructor().$mount()
-    expect(vm.$el.querySelector('.hello h1').textContent)
-      .to.equal('Welcome to Your Vue.js App')
+    // expect(typeof App.created).toBe('function')
+    // const Constructor = Vue.extend(App)
+    // const vm = new Constructor().$mount()
+    // expect(vm).to.exists();
+    // .to.equal('Welcome to Your Vue.js App')
   })
 })
